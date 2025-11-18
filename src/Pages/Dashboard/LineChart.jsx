@@ -127,7 +127,7 @@ const LineChart = () => {
           tension: 0.4,
           borderWidth: 2,
           pointBorderColor: "#B16D2E",
-          pointBackgroundColor: "#B16D2E",
+          pointBackgroundColor: "#CDA861",
           pointRadius: 4,
         },
       ],
